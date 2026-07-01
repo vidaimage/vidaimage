@@ -1,12 +1,13 @@
 # Hi, I'm Jordan Guanga 👋
 
-Educator and software builder. I design and ship full-stack applications that solve
-real problems in schools — from AI-driven adaptive learning to accreditation, curriculum,
-and student-services tooling. What I enjoy most is solving problems from an educator's
-point of view: a classroom problem looks different through a teacher's eyes than an
-engineer's, and I get to bring both minds to the table. My approach is to get something
-real working first and then tweak it — I'd rather ship a tool teachers can actually use
-today and refine it from there than wait on a perfect design.
+I'm an educator who builds software. That combination is my edge: I see school
+problems from the inside — the way a teacher, registrar, or accreditation lead
+actually experiences them — and then I build the tool to fix it. A classroom
+problem looks different through a teacher's eyes than an engineer's, and I get to
+bring both. I'm biased toward action: I ship something real and usable first, put
+it in front of people, and refine from there rather than waiting on a perfect plan.
+My work spans AI-driven adaptive learning, accreditation, curriculum mapping, and
+day-to-day student-services tooling.
 
 **Stack I build with:** Python · FastAPI · TypeScript · React · Next.js · Node · Supabase/Postgres · Firebase/Firestore · Electron · Google Cloud (Vertex AI / Gemini)
 
