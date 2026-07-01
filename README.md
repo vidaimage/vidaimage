@@ -45,4 +45,4 @@ Full-stack SAT practice platform with a web app, a desktop app, and an adaptive 
 
 ## 📫 Contact
 - ✉️ vidaimage@gmail.com
-- 💻 GitHub: [@vidaimage](https://github.com/vidaimage)
+- 💻 GitHub: [@jordan-guanga)
