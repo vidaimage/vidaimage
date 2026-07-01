@@ -18,12 +18,7 @@ day-to-day student-services tooling.
 ### 🧠 Genesis AI — Adaptive Learning System *(private — walkthrough available on request)*
 A next-generation adaptive tutor built around a **research-grounded teaching-intelligence engine**
 rather than a generic chatbot. Every response is driven by an inspectable pedagogical decision
-mapped to 20+ named education-research frameworks (Vygotsky ZPD, Bloom's Taxonomy, Bayesian
-Knowledge Tracing, spaced review, productive failure, and more).
-- **Backend:** Python / FastAPI · 7-phase tutoring state machine · BKT mastery tracking
-- **Frontend:** React + TypeScript student and teacher interfaces
-- **Data/AI:** Firestore · Vertex AI / Gemini / Imagen
-- Generative, story-driven curriculum with a teacher-facing insight dashboard.
+mapped to 20+ named education-research frameworks 
 
 ### 📊 Curriculum Mapper *(public)*
 Standards-alignment tool that maps courses, units, and assessments to frameworks (e.g. CCSS)
