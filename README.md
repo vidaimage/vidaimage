@@ -2,8 +2,11 @@
 
 Educator and software builder. I design and ship full-stack applications that solve
 real problems in schools — from AI-driven adaptive learning to accreditation, curriculum,
-and student-services tooling. I care about pedagogy, clean architecture, and shipping things
-that teachers and students actually use.
+and student-services tooling. What I enjoy most is solving problems from an educator's
+point of view: a classroom problem looks different through a teacher's eyes than an
+engineer's, and I get to bring both minds to the table. My approach is to get something
+real working first and then tweak it — I'd rather ship a tool teachers can actually use
+today and refine it from there than wait on a perfect design.
 
 **Stack I build with:** Python · FastAPI · TypeScript · React · Next.js · Node · Supabase/Postgres · Firebase/Firestore · Electron · Google Cloud (Vertex AI / Gemini)
 
