@@ -30,10 +30,9 @@ and surfaces coverage gaps — then exports a clean curriculum outline.
 - **Stack:** Next.js · TypeScript · Supabase (Postgres + RLS)
 - 🔗 https://github.com/jordan-guanga-portfolio/curriculum-mapper
 
-### 📝 SAT Adaptive Test *(public)*
+### 📝 SAT Adaptive Test *(private — walkthrough available on request)*
 Full-stack SAT practice platform with a web app, a desktop app, and an adaptive scoring API.
 - **Stack:** Next.js (web) · Electron (desktop) · Python (API)
-- 🔗 https://github.com/jordan-guanga-portfolio/sat-adaptive-test
 
 ---
 
