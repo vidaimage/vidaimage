@@ -1,6 +1,6 @@
 # Hi, I'm Jordan Guanga 👋
 
-I'm an educator who builds software. That combination is my edge: I see school
+I'm an educator turned builder. That combination is my edge: I see school
 problems from the inside the way a teacher, registrar, or accreditation lead
 actually experiences them and then I build the tool to fix it. A classroom
 problem looks different through a teacher's eyes than an engineer's, and I get to
