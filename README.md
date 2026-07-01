@@ -1,8 +1,8 @@
 # Hi, I'm Jordan Guanga 👋
 
 I'm an educator who builds software. That combination is my edge: I see school
-problems from the inside — the way a teacher, registrar, or accreditation lead
-actually experiences them — and then I build the tool to fix it. A classroom
+problems from the inside the way a teacher, registrar, or accreditation lead
+actually experiences them and then I build the tool to fix it. A classroom
 problem looks different through a teacher's eyes than an engineer's, and I get to
 bring both. I'm biased toward action: I ship something real and usable first, put
 it in front of people, and refine from there rather than waiting on a perfect plan.
